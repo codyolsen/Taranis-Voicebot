@@ -180,7 +180,7 @@ SOUNDS/en/SYSTEM;timovr2.wav;timer 2: elapsed
 SOUNDS/en/SYSTEM;timovr3.wav;timer 3: elapsed
 SOUNDS/en/SYSTEM;lowbatt.wav;transmitter battery: low
 SOUNDS/en/SYSTEM;inactiv.wav;inactivity alarm
-SOUNDS/en/SYSTEM;thralert.wav;throttle warning
+SOUNDS/en/SYSTEM;thralert.wav;thröttle warning
 SOUNDS/en/SYSTEM;swalert.wav;switch warning
 SOUNDS/en/SYSTEM;eebad.wav;bad e-prom
 SOUNDS/en/SYSTEM;hello.wav;Its high time… For fly time.
