@@ -1,7 +1,7 @@
 # Taranis-Voicebot
 A Mac shell script to generate voice files for the Taranis series of RC radio control systems.
 
-# Simple Instructions
+# Simple Instructions (or if you're not on a mac)
 1. Click the *Clone or Download* button.
 1. Click *Download Zip*.
 1. Copy the SOUNDS folder to your Taranis SD card.
