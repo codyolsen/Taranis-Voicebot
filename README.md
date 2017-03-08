@@ -5,6 +5,7 @@ A Mac shell script to generate voice files for the Taranis series of RC radio co
 1. Click the *Clone or Download* button.
 1. Click *Download Zip*.
 1. Copy the SOUNDS folder to your Taranis SD card.
+1. [This is a great tutorial on setting up Taranis sounds](https://oscarliang.com/taranis-play-sound-track-mp3-files/).
 
 # Customisation Instructions
 1. Download Taranis-Voicebot.sh and EN-Taranis-Daniel.csv (all sounds will be generated, so no need to download these unless you want to).
